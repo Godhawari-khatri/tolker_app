@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462393328045",
+    "project_id": "tolker-1675f",
+    "storage_bucket": "tolker-1675f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462393328045:android:77a749703b1dd83e7c2124",
+        "android_client_info": {
+          "package_name": "com.example.tolker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu0t2vYCaofyySbf4ikgTulcq-RARsMDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
